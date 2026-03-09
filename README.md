@@ -31,8 +31,9 @@ My goal is to continue improving my technical knowledge and grow as a developer 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaspreet204&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaspreet204&layout=compact)
+- Created a GitHub profile repository
+- Developed a README using Markdown
+- Added a banner image, biography, and skill badges
+- Practiced Git commands such as add, commit, and push
