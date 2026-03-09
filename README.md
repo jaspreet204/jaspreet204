@@ -14,6 +14,14 @@ I am a student passionate about web development and technology. I am currently l
 
 My goal is to continue improving my technical knowledge and grow as a developer while creating useful and creative solutions.
 
+## Currently Learning
+
+- HTML structure
+- CSS styling
+- JavaScript basics
+- Git and GitHub
+- Responsive web design
+
 ## Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
