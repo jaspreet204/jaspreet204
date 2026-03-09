@@ -1,11 +1,11 @@
 <h1 align="center">Jaspreet Kaur</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile;Web+Development+Student&center=true&width=500&height=50&loop=false&typeSpeed=70&pause=1000">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile;Web+Development+Student&center=true&width=600&height=80&size=28&color=FF8C00&loop=false&typeSpeed=70&pause=1000">
 </p>
 
 <p align="center">
-<img src="istockphoto-1043751914-2048x2048.jpg" width="400">
+<img src="istockphoto-1043751914-2048x2048.jpg" width="600">
 </p>
 
 ## About Me
