@@ -1,7 +1,7 @@
 <h1 align="center">Jaspreet Kaur</h1>
 
 <p align="center">
-https://media.istockphoto.com/id/1144179073/photo/light-bulbs-concept.jpg?s=1024x1024&w=is&k=20&c=zv3xbJz6HiZmWtNNfqNV9vQvGWZxZl4YAcY0VR6sDSc=
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile;Web+Development+Student&center=true&width=600&height=80&size=28&color=FF8C00&loop=false&typeSpeed=70&pause=1000">
 </p>
 
 <p align="center">
@@ -31,9 +31,3 @@ My goal is to continue improving my technical knowledge and grow as a developer 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-## GitHub Statistics
-
-- Created a GitHub profile repository
-- Developed a README using Markdown
-- Added a banner image, biography, and skill badges
-- Practiced Git commands such as add, commit, and push
