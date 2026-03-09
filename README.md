@@ -31,3 +31,9 @@ My goal is to continue improving my technical knowledge and grow as a developer 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+## GitHub Statistics
+
+- Created GitHub profile repository
+- Developed README using Markdown
+- Added banner image, bio, and skill badges
+- Practiced Git workflow (add, commit, push)
