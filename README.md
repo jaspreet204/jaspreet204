@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="istockphoto-1043751914-2048x2048.jpg" width="600">
+<img src="istockphoto-1043751914-2048x2048.jpg" width="800">
 </p>
 
 ## About Me
