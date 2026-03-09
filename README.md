@@ -4,7 +4,9 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile;Web+Development+Student&center=true&width=500&height=50&loop=false&typeSpeed=70&pause=1000">
 </p>
 
-![Tech Banner]istockphoto-1043751914-2048x2048.jpg
+<p align="center">
+<img src="istockphoto-1043751914-2048x2048.jpg" width="400">
+</p>
 
 ## About Me
 
