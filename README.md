@@ -4,7 +4,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile;Web+Development+Student&center=true&width=500&height=50&loop=false&typeSpeed=70&pause=1000">
 </p>
 
-https://unsplash.com/photos/ai-artificial-intelligence-concept3d-renderingconceptual-image-lZqmEhe2if4
+![Tech Banner]istockphoto-1043751914-2048x2048.jpg
+
 ## About Me
 
 I am a student passionate about web development and technology. I am currently learning HTML, CSS, JavaScript, and GitHub while building small projects to strengthen my programming skills.
