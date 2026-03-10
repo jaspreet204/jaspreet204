@@ -33,6 +33,13 @@ My goal is to continue improving my technical knowledge and grow as a developer 
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jaspreet204&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=jaspreet204&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jaspreet204&layout=compact&theme=radical)
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=jaspreet204&show_icons=true&theme=radical&hide_border=true" height="170">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=jaspreet204&theme=radical&hide_border=true" height="170">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jaspreet204&layout=compact&theme=radical&hide_border=true" height="170">
+</p>
