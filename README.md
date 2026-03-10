@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-![Banner](banner.png)
+![Banner](banner.png.png)
 </p>
 
 ## About Me
