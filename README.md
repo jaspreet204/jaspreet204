@@ -33,7 +33,6 @@ My goal is to continue improving my technical knowledge and grow as a developer 
 
 ## GitHub Statistics
 
-- Created GitHub profile repository
-- Developed README using Markdown
-- Added banner image, bio, and skill badges
-- Practiced Git workflow (add, commit, push)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jaspreet204&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=jaspreet204&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jaspreet204&layout=compact&theme=radical)
