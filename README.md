@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src=jaspreet204/banner.png" width="800">
+![Banner](banner.png)
 </p>
 
 ## About Me
