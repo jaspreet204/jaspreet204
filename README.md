@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src=profile.jpg" width="800">
+<img src=jaspreet204/profile.jpg.avif" width="800">
 </p>
 
 ## About Me
