@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="banner.png" width="700">
+  <img src="banner.png" width="900">
 </p>
 
 ## About Me
