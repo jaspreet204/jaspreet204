@@ -1,43 +1,120 @@
-<h1 align="center">Jaspreet Kaur</h1>
+<h1 align="center">Hi,
+  I'm Jaspreet Kaur</h1>
 
 <p align="center">
-Software Development Student | C# | .NET | ASP.NET Core | Web Development
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Development+Student;C%23+%7C+.NET+Developer;ASP.NET+Core+%7C+REST+APIs;Learning+%26+Building+Projects&center=true&width=650&height=80&size=25&color=7F3ACE&vCenter=true&pause=1000&repeat=true">
 </p>
-
-## About Me
-
-I am a Software Development student interested in building web applications and learning new technologies. I enjoy working with C#, .NET, ASP.NET Core, APIs, and databases.
-
-I am currently building projects through my studies to improve my programming, problem-solving, and testing skills. My goal is to continue learning and gain real-world experience as a software developer.
-
-## Technical Interests
-
-* C# and .NET
-* ASP.NET Core
-* REST APIs
-* SQL and databases
-* Entity Framework Core
-* Unit Testing and Moq
-* Web Development
-
-## Languages
 
 <p align="center">
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="banner.png" width="900" alt="Jaspreet Kaur GitHub Banner">
 </p>
 
-## Tools & Technologies
+<p align="center">
+  <a href="https://www.linkedin.com/in/jaspreet-kaur-4943363b7">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/jaspreet204">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
-* Visual Studio
-* Git and GitHub
-* Entity Framework Core
-* xUnit
-* Moq
-* Swagger
+---
 
-## Connect With Me
+## 👩‍💻 About Me
 
-[LinkedIn](https://www.linkedin.com/in/jaspreet-kaur-4943363b7)
+I'm a **Software Development student** interested in building web applications and learning how software works from development to testing.
+I'm currently working with **C#, .NET, ASP.NET Core, REST APIs, SQL, Entity Framework Core, xUnit, and Moq** through my software development projects.
+I enjoy learning by building projects, solving problems, and improving my coding skills one step at a time.
+
+🎯 **Goal:** Grow my skills and gain real-world experience as a software developer.
+
+---
+
+## 🚀 What I'm Working With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,git,github,visualstudio" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/xUnit-5A2A82?style=for-the-badge&logo=xunit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Moq-Testing-6C757D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Swagger-API%20Testing-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+</p>
+
+---
+
+## 💻 Technical Interests
+
+```text
+C# / .NET
+ASP.NET Core
+REST APIs
+SQL & Databases
+Entity Framework Core
+Unit Testing
+Moq
+Web Development
+Git & GitHub
+```
+
+---
+
+## 🌱 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-ASP.NET%20Core-512BD4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/APIs-REST-02569B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Testing-xUnit%20%2B%20Moq-6C757D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Database-SQL-CC2927?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ORM-EF%20Core-512BD4?style=flat-square"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🎟️ Local Event Ticket API
+
+ASP.NET Core Web API project for managing events, customers, bookings, and ticket information.
+**Tech:** C# • ASP.NET Core • EF Core • SQL • REST API • Swagger
+
+### 📦 Inventory Processor
+A C# application for processing inventory orders, checking stock, calculating totals, and applying discounts.
+
+**Tech:** C# • .NET • xUnit • Unit Testing
+
+### 📝 Blogging Platform Tests
+Unit testing project using xUnit and Moq to test controller behavior and service dependencies.
+
+**Tech:** C# • ASP.NET Core • xUnit • Moq
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=jaspreet204&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jaspreet204&layout=compact&theme=radical&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=jaspreet204&theme=radical&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jaspreet-kaur-4943363b7">
+    <img src="https://img.shields.io/badge/LinkedIn-Jaspreet%20Kaur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile! 🚀</i>
+</p>
