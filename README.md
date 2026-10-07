@@ -74,26 +74,6 @@ Git & GitHub
 </p>
 
 ---
-
-## 📌 Featured Projects
-
-### 🎟️ Local Event Ticket API
-
-ASP.NET Core Web API project for managing events, customers, bookings, and ticket information.
-**Tech:** C# • ASP.NET Core • EF Core • SQL • REST API • Swagger
-
-### 📦 Inventory Processor
-A C# application for processing inventory orders, checking stock, calculating totals, and applying discounts.
-
-**Tech:** C# • .NET • xUnit • Unit Testing
-
-### 📝 Blogging Platform Tests
-Unit testing project using xUnit and Moq to test controller behavior and service dependencies.
-
-**Tech:** C# • ASP.NET Core • xUnit • Moq
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
